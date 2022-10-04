@@ -1,0 +1,13 @@
+/*
+the following combinations work:
+div > p
+div > .text
+.container > p
+.container > .text
+*/
+div > p {
+  background-color: hsl(60, 100%, 50%);
+  color: rgb(255, 0, 0);
+  font-size: 20px;
+  text-align: center;
+}
